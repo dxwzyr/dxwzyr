@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Backend Developer<br>- Support Analyst II at @t-systems<br>- 20yo</p>
+<b> <p align="left">- Backend Developer<br>- Support Analyst II at @t-systems<br>- 20yo</p> </b>
 
 ###
 
