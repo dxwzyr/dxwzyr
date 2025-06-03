@@ -2,7 +2,7 @@
 
 ###
 
-<b> <p align="left">- Backend Developer<br>- Support Analyst II at @t-systems<br>- 20yo</p> </b>
+<p align="left">- Backend Developer<br>- Support Analyst II at @t-systems<br>- 20yo</p>
 
 ###
 
@@ -20,6 +20,8 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgresql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="fastapi logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=spring" height="48" alt="spring logo"  />
   <img width="10" />
