@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
