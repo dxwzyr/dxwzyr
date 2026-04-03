@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Backend Developer<br><br>- 21yo</p>
+<p align="left">-Backend Developer<br>- 21yo</p>
 
 ###
 
